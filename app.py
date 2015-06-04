@@ -9,7 +9,7 @@ jsondict = {}
 files = glob.glob("static/img/*.jpg")
 for file in files:
     filename = file.split('/')[2].strip('.jpg')
-    jsondict[filename.lower()] = {'name':filename,'photo':'%s.jpg' % filename.upper(), 'text':'%s.txt' % filename}
+    jsondict[filename.lower()] = {'name':filename,'photo':'%s.jpg' % filename, 'text':'%s.txt' % filename}
 jsondictsorted = OrderedDict(sorted(jsondict.items(), key=lambda t: t[0]))
 
 @app.route('/')
