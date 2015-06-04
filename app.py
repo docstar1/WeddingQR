@@ -12,15 +12,17 @@ for file in files:
     jsondict[filename.lower()] = {'name':filename,'photo':'%s.jpg' % filename, 'text':'%s.txt' % filename}
 jsondictsorted = OrderedDict(sorted(jsondict.items(), key=lambda t: t[0]))
 
+
 @app.route('/')
 @app.route('/index')
 def index():
     return render_template('index.html', title="Index", jsondict=jsondictsorted)
 
+
 @app.route('/<target>')
 def template(target):
     try:
-        with open('static/text/%s' % jsondict[target.lower()]['text'], 'rb') as f:
+        with open('static/text/%s' % jsondict[target]['text'], 'rb') as f:
             text = f.read().decode('utf-8')
     except IOError:
         text = "PLACEHOLDER TEXT"
@@ -28,7 +30,5 @@ def template(target):
                            title=jsondict[target.lower()]['name'],
                            image=jsondict[target.lower()]['photo'],
                            text=text)
-
-
 
 app.run()
