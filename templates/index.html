@@ -44,12 +44,12 @@
 
       <div class="row row-offcanvas row-offcanvas-right">
 
-        <div class="col-xs-18 col-sm-12">
+        <div class="col-xs-12 col-md-12">
           <div class="row">
             {% for key, value in jsondict.iteritems() %}
-            <div class="col-xs-6 col-lg-4">
-              <h2>{{ key|e }}</h2>
-              <img style="max-width:100%; max-height:100%;" src="{{ url_for('static', filename='img/%s' % value.photo) }}" border="1">
+            <div class="col-xs-12 col-md-4" style="text-align:center">
+              <h2>{{ value.name|e }}</h2>
+              <img style="max-width:100%; border: 1px solid #888;" src="{{ url_for('static', filename='converted/%s' % value.photo) }}" border="1">
               <p><a class="btn btn-default" href='/{{ key|e }}' role="button">View details &raquo;</a></p>
             </div>
             {% endfor %}
