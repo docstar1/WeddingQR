@@ -1,0 +1,18 @@
+OP-20-G or "Office of Chief Of Naval Operations (OPNAV), 20th Division of the Office of Naval Communications, G Section / Communications Security", was the U.S. Navy's signals intelligence and cryptanalysis group during World War II. Its mission was to intercept, decrypt, and analyze naval communications from Japanese, German, and Italian navies. In addition OP-20-G also copied diplomatic messages of many foreign governments. The majority of the sections effort was directed towards Japan and included breaking the early Japanese “Blue” book fleet code. This was made possible by intercept and High Frequency Direction Finder (HFDF) sites in the Pacific, Atlantic, and continental U.S., as well as a Japanese telegraphic code school for radio operators in Washington, D.C.
+
+The Code and Signal Section was formally made a part of the Division of Naval Communications (DNC), as Op-20-G, on July 1, 1922. In January 1924, a 34-year-old U.S. Navy lieutenant named Laurance F. Safford was assigned to expand OP-20-G's domain to radio interception. He worked out of Room 2646, on the top floor of the Navy Department building in Washington, D.C..
+
+Japan was of course a prime target for radio interception and cryptanalysis, but there was the problem of finding personnel who could speak Japanese. The Navy had a number of officers who had served in a diplomatic capacity in Japan and could speak Japanese fluently, but there was a shortage of radiotelegraph operators who could read Japanese Wabun code communications sent in kana. Fortunately, a number of US Navy and Marine radiotelegraph operators operating in the Pacific had formed an informal group in 1923 to compare notes on Japanese kana transmissions. Four of these men became instructors in the art of reading kana transmissions when the Navy began conducting classes in the subject in 1928.
+
+The classes were conducted by the Room 2426 crew, and the radiotelegraph operators became known as the "On-The-Roof Gang". By June 1940, OP-20-G included 147 officers, enlisted men, and civilians, linked into a network of radio listening posts as far-flung as the Army's.
+
+OP-20-G did some work on Japanese diplomatic codes, but the organization's primary focus was on Japanese military codes. The US Navy first got a handle on Japanese naval codes in 1922, when Navy agents broke into the Japanese consulate in New York, cracked the safe, took photographs of pages of a Japanese navy codebook, and left, having put everything back as they had found it.
+
+Before the war, the Navy cipher bureau operated out of three main bases:
+Station NEGAT at headquarters in Washington, D.C.
+Station HYPO, a section at Pearl Harbor in Hawaii
+Station CAST, a section in the fortified caves of the island of Corregidor, in the Philippines. The codebreakers were backed up by a far-flung network of listening and radio direction finding stations. This later became Station BELL when Army and Navy signals intelligence personnel evacuated to Melbourne, Australia.
+
+The US Army Signals Intelligence Service (SIS) and OP-20-G were badly hobbled by bureaucracy. The groups had become rivals, competing with each other to provide their intelligence data, codenamed "MAGIC", to high officials. Eventually in 1940, SIS and OP-20-G came to agreement to provide MAGIC on alternating days, and try to draw up guidelines for which team handled what traffic. Complicating matters was that the Coast Guard, the FBI, and even the FCC also had radio-intercept operations.
+
+The result was that much of the MAGIC was unused. There was no efficient process for assessing and organizing the intelligence, or getting it to proper end users.

@@ -1,0 +1,18 @@
+Magic was an Allied cryptanalysis project during World War II. It involved the United States Army's Signals Intelligence Section (SIS) and the United States Navy's Communication Special Unit.
+
+Magic was set up to combine the US government's cryptologic capabilities in one organization dubbed the Research Bureau. Intelligence officers from the Army and Navy (and later civilian experts and technicians) were all under one roof. Although they worked on a series of codes and cyphers, their most important successes involved RED, BLUE, and PURPLE.
+
+<b>RED</b>
+In 1923, a US Navy officer acquired a stolen copy of the Secret Operating Code codebook used by the Japanese Navy during World War I. Photographs of the codebook were given to the cryptanalysts at the Research Desk and the processed code was kept in red-colored folders (to indicate its Top Secret classification). This code was called "RED".
+
+<b>BLUE</b>
+In 1930, the Japanese government created a more complex code that was codenamed BLUE, although RED was still being used for low-level communications. It was quickly broken by the Research Desk no later than 1932. US Military Intelligence COMINT listening stations began monitoring command-to-fleet, ship-to-ship, and land-based communications.
+
+<b>PURPLE</b>
+After Japan's ally Germany declared war in the fall of 1939, the German government began sending technical assistance to upgrade their communications and cryptography capabilities. One part was to send them modified Enigma machines to secure Japan's high-level communications with Germany. The new code, codenamed PURPLE (from the color obtained by mixing red and blue), was baffling.
+
+PURPLE, like Enigma, began its communications with the same line of code but then became an unfathomable jumble. Codebreakers tried to break PURPLE communiques by hand but found they could not. Then the codebreakers realized that it was not a manual additive or substitution code like RED and BLUE, but a machine-generated code similar to Germany's Enigma cipher. Decoding was slow and much of the traffic was still hard to break. By the time the traffic was decoded and translated, the contents were often out of date.
+
+A reverse-engineered machine created in 1939 by a team of technicians led by William Friedman and Frank Rowlett could figure out some of the PURPLE code by replicating some of the settings of the Japanese Enigma machines. This sped up decoding and the addition of more translators on staff in 1942 made it easier and quicker to decipher the traffic intercepted.
+
+http://en.wikipedia.org/wiki/Magic_(cryptography)
