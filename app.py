@@ -26,7 +26,6 @@ def template(target):
             text = f.read().decode('utf-8')
     except IOError:
         text = "PLACEHOLDER TEXT"
-    print "Rendering"
     return render_template('template.html',
                            title=jsondict[target]['name'],
                            image=jsondict[target]['photo'],
