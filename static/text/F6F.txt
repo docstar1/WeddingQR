@@ -1,0 +1,43 @@
+F6F Hellcat
+
+The Grumman F6F Hellcat was a carrier based fighter aircraft used in the Pacific Theater in WWII. It was introduced in 1943, and over 12,000 were built. It was well-designed and rugged, and very carrier-capable.
+
+“After early US Navy experience in the Pacific in the early months of WWII, and after consultation with Allied air forces in the European theater, Grumman began to develop a successor to their Wildcat fighter, to be called the Hellcat. Major design changes from the Wildcat included a low-mounted wing, wider landing gear which retracted into the wings, more powerful engine, improved cockpit armor plating, and increased ammunition capacity.
+
+The Navy ordered four prototypes of the new airplane, each with a different engine for test and evaluation purposes. Less than a year later, on 26 June 1942, the first prototype (the XF6F-1, with a Wright R-2600 Cyclone engine) flew for the first time. Before much meaningful evaluation of the various engines could be made, however, the Navy decided to press the Hellcat into production by fitting the XF6F-1 prototype with the most powerful engine available, the Pratt & Whitney R-2800 Double Wasp. (This turned it into anXF6F-3. The XF6F-2 and XF6F-4 were never evaluated.)
+
+The first production model, the F6F-3, first flew in October 1942, and deliveries began four months later with squadron VF-9 on the USS Essex in the Pacific. Extremely robust, powerful and maneuverable, the Hellcat was a potent force against the Japanese, and was credited with over three-quarters of the US Navy's air-to-air kills in the war.
+
+The UK's Fleet Air Arm received 252 F6F-3s (designated Gannet Mk I) beginning in 1943. Meanwhile, in the US, over 200 Hellcats were modified as radar-equipped night fighters. During the F6F-3 production run, which lasted until April 1944, Grumman had developed an improved Hellcat, the F6F-5, which utilized a redesigned engine cowl, new ailerons, a strengthened tail, and a water-injection system for the engine, which added 10% to the takeoff performance and increased its armament-carrying capabilities. The F6F-5 was first flown on 4 April 1944, and production continued through November 1945. Over 900 more "Dash-5" Hellcats were delivered to the UK under the Lend-Lease program under the designation Hellcat Mk II.”*
+
+General characteristics
+Crew: 1
+Length: 33 ft 7 in (10.24 m)
+Wingspan: 42 ft 10 in (13.06 m)
+Height: 13 ft 1 in (3.99 m)
+Wing area: 334 ft² (31 m²)
+Airfoil: NACA 23015.6 mod root; NACA 23009 tip
+Empty weight: 9,238 lb (4,190 kg)
+Loaded weight: 12,598 lb (5,714 kg)
+Max. takeoff weight: 15,415 lb (6,990 kg)
+Powerplant: 1 × Pratt & Whitney R-2800-10W "Double Wasp" two-row radial engine with a two-speed two-stage supercharger, 2,200 hp (1,491 kW[85])
+Propellers: 3-blade Hamilton Standard
+Propeller diameter: 13 ft 1 in (4.0 m)
+Fuel capacity: 250 gal (946 L) internal; up to 3 × 150 gal (568 L) external drop tanks
+Aspect ratio: 5.5
+
+Performance
+Maximum speed: 330 kn (380 mph, 621 km/h)
+Stall speed: 73 kn (84 mph, 135 km/h)
+Combat radius: 820 nmi (945 mi, 1,520 km)
+Ferry range: 1,330 nmi (1,530 mi, 2,460 km)
+Service ceiling: 37,300 ft (11,370 m)
+Rate of climb: 3,500 ft/min (17.8 m/s)
+
+VF(N) - 76 Night Squad; USS Hornet
+
+The Hellcats of VF(N)-76 were fitted with early airborne Radar developed by engineers and scientists at MIT.
+
+http://acepilots.com/planes/f6f_hellcat.html
+
+http://www.warbirdalley.com/f6f.htm

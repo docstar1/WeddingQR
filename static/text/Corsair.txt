@@ -1,21 +1,29 @@
-The Chance Vought F4U Corsair was an American fighter aircraft that saw service primarily in World War II and the Korean War. Demand for the aircraft soon overwhelmed Vought's manufacturing capability, resulting in production by Goodyear and Brewster: Goodyear-built Corsairs were designated FG and Brewster-built aircraft F3A. From the first prototype delivery to the U.S. Navy in 1940, to final delivery in 1953 to the French, 12,571 F4U Corsairs were manufactured by Vought,[1] in 16 separate models, in the longest production run of any piston-engined fighter in U.S. history (1942–53).[2][3][4]
+F4U Corsair
 
-The Corsair was designed as a carrier-based aircraft. However its difficult carrier landing performance rendered the Corsair unsuitable for Navy use until the carrier landing issues were overcome when used by the British Fleet Air Arm. The Corsair thus came to and retained prominence in its area of greatest deployment: land based use by the U.S. Marines.[5] The role of the dominant U.S. carrier based fighter in the second part of the war was thus filled by the Grumman F6F Hellcat, powered by the same Double Wasp engine first flown on the Corsair's first prototype in 1940.[6] The Corsair served to a lesser degree in the U.S. Navy. As well as the U.S. and British use the Corsair was also used by the Royal New Zealand Air Force, the French Navy Aéronavale and other, smaller, air forces until the 1960s. Some Japanese pilots regarded it as the most formidable American fighter of World War II,[7] and the U.S. Navy counted an 11:1 kill ratio with the F4U Corsair.[8]
+The Vought F4U Corsair was a single-seat fighter used in the Pacific Theater during WWII. Famous for its distinctive gull wing and its outstanding performance, it entered service in 1942, and over 12,000 were produced.
 
-After the carrier landing issues had been tackled it quickly became the most capable carrier-based fighter-bomber of World War II. The Corsair served almost exclusively as a fighter-bomber throughout the Korean War and during the French colonial wars in Indochina and Algeria.[9]
+“Development of the Corsair began in 1938, when the US Navy issued a request for a new single-seat carrier-based fighter. The Chance-Vought company won the contract with their unique, gull-winged airframe pulled by the largest engine then available, the Pratt & Whitney R-2800 Double Wasp. The wing design was necessitated by the tall landing gear which was, in turn, necessitated by the huge propeller required to propel the plane at the desired high speeds.
+The prototype of the Corsair was first flown on 29 May 1940, but due to design revisions, the first production F4U-1 Corsair was not delivered until 31 July 1942. Further landing gear and cockpit modifications resulted in a new variant, the F4U-1A, which was the first version approved for carrier duty.
+The Corsair served with the US Navy, US Marines, the Royal Navy's Fleet Air Arm, and the Royal New Zealand Air Force (and later, the French Aeronavale), and quickly became the most capable carrier-based fighter/bomber of the war. Demand for the aircraft soon overwhelmed Vought's manufacturing capability, resulting in additional aircraft being produced by the Goodyear Company (as the FG-1) and the Brewster Company (as the F3A-1). Production ceased in 1952. Over two dozen Corsairs are believed to be still airworthy, most in the United States.”*
+General characteristics
+Crew: 1 pilot
+Length: 33 ft 8 in (10.2 m)
+Wingspan: 41 ft 0 in (12.5 m)
+WS Folded: 17 ft 0.5 in (5.2 m)
+Height: 14 ft 9 in (4.50 m)
+Empty weight: 9,205 lb (4,174 kg)
+Loaded weight: 12,405 lb (5,626 kg)
+Powerplant: 1 × Pratt & Whitney R-2800-18W radial engine, 2,325 hp (1,710 kW)
 
-<table border=1>
-<tr><td>Role</td><td>Carrier-capable fighter aircraft</td>
-<tr><td>National origin</td><td>United States</td>
-<tr><td>Manufacturer</td><td>Chance Vought</td>
-<tr><td>First flight</td><td>29 May 1940</td>
-<tr><td>Introduction</td><td>28 December 1942</td>
-<tr><td>Retired</td><td>1979 (Honduras)</td>
-<tr><td>Primary users</td><td>United States Navy
-United States Marine Corps
-Royal Navy
-Royal New Zealand Air Force</td>
-<tr><td>Produced</td><td>1942–53</td>
-<tr><td>Number built</td><td>12,571</td>
-<tr><td>Developed into</td><td>Goodyear F2G Corsair</td>
-</table>
+Performance
+Maximum speed: 453 mph (395 kn, 731 km/h)
+Range: 897 mi (602 nmi (1,115 km))
+Service ceiling: 41,500ft (12,649 m)
+Rate of climb: 3,870ft/min (19.7 m/s)
+
+
+VF-84 Wolf Gang; USS Bunker HIll
+
+VF-84 participated in the invasion of Iwo Jima as well as raids on Tokyo, and helped to sing the largest warship in the work, the Japanese battleship Yamato.
+
+http://www.warbirdalley.com/f4u.htm

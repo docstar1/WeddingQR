@@ -1,0 +1,30 @@
+P-39 Airacobra
+
+“The P-39 was one of America's first-line pursuit planes in December 1941. It made its initial flight in April 1939 at Wright Field, Ohio, and by the time of the Pearl Harbor attack, nearly 600 had been built. Its unique engine location behind the cockpit caused some pilot concern at first, but experience showed that this was no more of a hazard in a crash landing than with an engine located forward of the cockpit. The P-39's spin characteristics, however, could be a problem if proper recovery techniques were ignored.”*
+
+General characteristics
+Crew: 1
+Length: 30 ft 2 in (9.2 m)
+Wingspan: 34 ft 0 in (10.4 m)
+Height: 12 ft 5 in (3.8 m)
+Wing area: 213 sq ft (19.8 m²)
+Empty weight: 5,347 lb (2,425 kg)
+Loaded weight: 7,379 lb (3,347 kg)
+Max. takeoff weight: 8,400 lb (3,800 kg)
+Powerplant: 1 × Allison V-1710-85 liquid-cooled V-12, 1,200 hp (895 kW)
+
+Performance
+Maximum speed: 376 mph (605 km/h) (Redline dive speed was 525 mph)
+Range: 525 miles on internal fuel (840 km)
+Service ceiling: 35,000 ft (10,700 m)
+Rate of climb: 3,750 ft/min (19 m/s)
+Wing loading: 34.6 lb/sq ft (169 kg/m²)
+Power/mass: 0.16 hp/lb (0.27 kW/kg)
+Time to climb: 15,000 in 4.5 min at 160 mph (260 km/h)
+
+
+57th Fighter Group, Aleutian Islands
+
+The 57th Fighter Group spent the fall of 1942 stationed in Alaska’s Aleutian Islands, attacking invading Japanese forces. Unfortunately, inclement weather claimed more pilot lives than the Japanese.
+
+http://www.nationalmuseum.af.mil/factsheets/factsheet.asp?id=477
