@@ -32,4 +32,4 @@ def template(target):
                            image=jsondict[target]['photo'],
                            text=text)
 
-app.run(debug=True)
+app.run()
