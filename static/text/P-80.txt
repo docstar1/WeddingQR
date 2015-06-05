@@ -1,0 +1,44 @@
+During the summer of 1943, Lockheed Chief Engineer Kelly Johnson enlisted an elite team of engineers and shop mechanics to gather in a rented circus tent he had pitched downwind from a noxious plastics factory at the edge of Lockheed’s Burbank, Calif., facility. The purpose was to keep nosy onlookers at bay.
+All he was allowed to tell his team, on orders from the U.S. Air Force, was that they would be expected to toil 10 hours a day, six days a week, for the foreseeable future on a new airplane prototype. They were to work under strict secrecy, completely under his command, according to deadlines most would find impossible to meet.
+The group accepted the terms without hesitation, even though few knew the whole story. Newly developed German jet fighters, with their superior speed and acceleration, showed early signs of dominating the skies over Europe. And the U.S. War Department, hoping to quickly level the playing field, had recruited Johnson to build what would become the United States’ first true operational jet fighter—the P-80.
+With the pressing need to counter the emerging German threat quickly, the War Department gave Johnson a seemingly insurmountable deadline to design and build the new aircraft—150 days.
+Johnson gladly took on the challenge. Now it was up to his new team to deliver.
+
+And deliver they did. Over the course of the next six months, the Lockheed team exceeded expectations, delivering the sleek XP-80 prototype in 143 days, seven days ahead of schedule.
+It was dubbed the Shooting Star in honor of its unparalleled speed, with some modified models capable of passing 600 mph. With its bullet-shaped fuselage, flush rivets, and smooth skin, the production P-80 was not only a looker but also an intimidating attack plane, boasting six .50-caliber machine guns and underwing shackles for bombs, a deadly mix of strength and speed.
+Although the P-80 did not see action in World War II, the timely delivery of the Shooting Star by Lockheed set the stage for the Shooting Star’s early dominance during the Korean War as America’s front-line fighter.
+
+Some 75 percent of enemy losses during the initial months of the Korean campaign were due to air attacks by Shooting Stars. By 1950, a P-80 under the control of Lt. Russell Brown shot down a North Korean MiG-15 in the world’s first jet-versus-jet air battle. These successes paved the way for subsequent iterations of the P-80, like the P-80B, which introduced the first ejection seat in a production U.S. aircraft, the F-94 all-weather interceptor and the speedy T-33 trainer, which remained in service until 1997.
+
+General characteristics
+Crew: One
+Length: 34 ft 5 in (10.49 m)
+Wingspan: 38 ft 9 in (11.81 m)
+Height: 11 ft 3 in (3.43 m)
+Wing area: 237.6 ft² (22.07 m²)
+Aspect ratio: 6.37
+Empty weight: 8,420 lb (3,819 kg)
+Loaded weight: 12,650 lb (5,738 kg)
+Max. takeoff weight: 16,856 lb (7,646 kg)
+Powerplant: 1 × Allison J33-A-35 centrifugal compressor turbojet, 4600 lbf (20.46 kN) / 5400 lbf (24.02 kN) with water injection[54]
+Zero-lift drag coefficient: 0.0134
+Drag area: 3.2 ft² (0.30 m²)
+
+Performance
+Maximum speed: 600 mph, Mach .76 (P-80A 558 mph at sea level and 492 mph at 40,000 ft)[8] (965 km/h)
+Cruise speed: 410 mph (660 km/h)
+Range: 1,200 mi (1,930 km)
+Service ceiling: 46,000 ft (14,000 m)
+Rate of climb: 4,580 ft/min (23.3 m/s) 5.5 min to 20,000 ft (6,100 m)
+Wing loading: 53 lb/ft² (260 kg/m²)
+Thrust/weight: 0.364 (0.427 with water injection)
+Lift-to-drag ratio: 17.7
+
+Armament
+Guns: 6 × 0.50 in (12.7 mm) M3 Browning machine guns (300 rpg)
+Rockets: 8 × 127mm unguided rockets
+Bombs: 2 × 1,000 lb (454 kg) bombs
+
+Concept work began on the XP-80 in 1943 with a design being built around the blueprint dimensions of a British Halford H-1 B turbojet (later called the de Havilland Goblin), a powerplant to which the design team did not have actual access. Lockheed's team, consisting of 28 engineers, was led by the legendary Clarence L. "Kelly" Johnson. This teaming was an early product of Lockheed's Skunk Works, which surfaced again in the next decade to produce a line of high-performance aircraft beginning with the F-104.
+
+http://www.nationalmuseum.af.mil/factsheets/factsheet.asp?id=290
