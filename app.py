@@ -9,7 +9,7 @@ jsondict = {}
 files = glob.glob("static/img/*.jpg")
 for file in files:
     filename = file.split('/')[2].strip('.jpg')
-    jsondict[filename.lower()] = {'name':filename,'photo':'%s.jpg' % filename, 'text':'%s.txt' % filename}
+    jsondict[filename] = {'name':filename,'photo':'%s.jpg' % filename, 'text':'%s.txt' % filename}
 jsondictsorted = OrderedDict(sorted(jsondict.items(), key=lambda t: t[0]))
 
 
@@ -26,9 +26,10 @@ def template(target):
             text = f.read().decode('utf-8')
     except IOError:
         text = "PLACEHOLDER TEXT"
+    print "Rendering"
     return render_template('template.html',
-                           title=jsondict[target.lower()]['name'],
-                           image=jsondict[target.lower()]['photo'],
+                           title=jsondict[target]['name'],
+                           image=jsondict[target]['photo'],
                            text=text)
 
-app.run()
+app.run(debug=True)
