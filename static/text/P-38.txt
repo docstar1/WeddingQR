@@ -23,13 +23,13 @@ Wingspan: 52 ft 0 in (15.85 m) (15.85 m)
 Height: 12 ft 10 in (3.91 m) (3.91 m)
 Wing area: 327.5 ft² (30.43 m²)
 Airfoil: NACA 23016 / NACA 4412
-Empty weight: 12,800 lb[130] (5,800 kg)
-Loaded weight: 17,500 lb[130] (7,940 kg)
+Empty weight: 12,800 lb (5,800 kg)
+Loaded weight: 17,500 lb (7,940 kg)
 Max. takeoff weight: 21,600 lb (9,798 kg)
-Powerplant: 2 × Allison V-1710-111/113 V-12 piston engine, 1,600 hp (1,193 kW) WEP at 60 inHg, 3,000 rpm [131] each
-Zero-lift drag coefficient: 0.0268[130]
-Drag area: 8.78 ft² (0.82 m²)[130]
-Aspect ratio: 8.26[130]
+Powerplant: 2 × Allison V-1710-111/113 V-12 piston engine, 1,600 hp (1,193 kW) WEP at 60 inHg, 3,000 rpm  each
+Zero-lift drag coefficient: 0.0268
+Drag area: 8.78 ft² (0.82 m²)
+Aspect ratio: 8.26
 
 Performance
 Maximum speed: 414 mph (667 km/h) on Military Power: 1,425 hp at 54 inHg, 3,000 rpm at 25,000 ft (7,620 m)[citation needed]
