@@ -1,0 +1,30 @@
+The Hawker Hurricane was the first operational R.A.F. aircraft capable of a top speed in excess of 300 m.p.h. The design of the Hurricane, directed by Sydney Camm, was the outcome of discussions with the Directorate of Technical Development towards the end of 1933, aimed at breaking the deadlocked biplane formula. In these discussions Camm proposed a monoplane, based otherwise on his Fury biplane, using the proposed new Rolls-Royce P.V.12 engine (later to become the Merlin), and in time incorporating a retractable undercarriage. Originally, in concert with current armament requirements, a four-gun battery was proposed; but in 1934, with successful negotiations to licence-build the reliable Colt machine gun, it was deemed possible to mount an eight-gun battery in the wings, unrestricted by the propeller arc and thus dispensing with synchronising gear.
+
+The first Fighter Command squadron to receive Hurricanes was No. 111, commanded by Sqdn. Ldr. John Gillan, based at Northolt before Christmas 1937; and it was the squadron's C.O. who flew one of the new fighters from Turnhouse, Edinburgh to Northolt, London at an average ground speed of 408.75 mph (659.27km/h) - a feat which earned the pilot the nickname "Downwind Gillan" for all time. Nos. 3 and 56 Squadrons took delivery during 1938, though the latter was not operational at the time of the Munich Crisis in September of that year. By the outbreak of war a year later 497 Hurricanes had been completed from an order book totalling no less than 3,500. At about this time the Gloster Aircraft Company started sub-contract manufacture of the standard Mark 1, which was now emerging from the factories with metal wings and three-blade variable-pitch propellers. One final refinement was adopted between the outbreak of war and the opening of the Battle of Britain; this was the Rotol constant-speed propeller which, apart from enabling the pilot to select an optimum pitch for take-off, climb, cruise And combat (thus bestowing a better performance under some of these conditions) also prevented the engine from overheating in a dive.
+
+A total of 1,715 Hurricanes flew with Fighter Command during the period of the Battle, far in excess of all other British fighters combined. Having entered service a year before the Spitfire, the Hurricane was "half-a-generation" older, and was markedly inferior in terms of speed and climb. However, the Hurricane was a robust, manoeuvrable aircraft capable of sustaining fearsome combat damage before write-off; and unlike the Spitfire, it was a wholly operational, go-anywhere do-anything fighter by July 1940. It is estimated that its pilots were credited with four-fifths of all enemy aircraft destroyed in the period July-October 1940.
+
+General characteristics
+Crew: 1
+Length: 32 ft 3 in (9.84 m)
+Wingspan: 40 ft 0 in (12.19 m)
+Height: 13 ft 1½ in (4.0 m)
+Wing area: 257.5 ft² (23.92 m²)
+Empty weight: 5,745 lb (2,605 kg)
+Loaded weight: 7,670 lb (3,480 kg)
+Max. takeoff weight: 8,710 lb (3,950 kg)
+Powerplant: 1 × Rolls-Royce Merlin XX liquid-cooled V-12, 1,185 hp (883 kW) at 21,000 ft (6,400 m)
+
+Performance
+Maximum speed: 340 mph (547 km/h) at 21,000 ft (6,400 m) [N 11]
+Range: 600 mi (965 km)
+Service ceiling: 36,000 ft (10,970 m)
+Rate of climb: 2,780 ft/min (14.1 m/s)
+Wing loading: 29.8 lb/ft² (121.9 kg/m²)
+Power/mass: 0.15 hp/lb (0.25 kW/kg)
+
+Armament
+Guns: 4 × 20 mm (.79 in) Hispano Mk II cannon
+Bombs: 2 × 250 or 500 lb (110 or 230 kg) bombs
+
+http://www.raf.mod.uk/history/hawkerhurricane.cfm

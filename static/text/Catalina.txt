@@ -1,0 +1,41 @@
+One of the most recognized aircraft in the world, the Consolidated PBY Catalina not only served in the U.S. Navy, but also with the air arms of Britain, Australia, New Zealand, Canada, the Netherlands and the Soviet Union. The PBY was involved in almost every major operation in World War II, and figured significantly in defeating the U-boat menace in the Atlantic.
+
+In response to an October 1933 order from the Navy for a monoplane patrol aircraft, Isaac Laddon of Consolidated Aircraft designed the all metal Model 28 with a number of unique features, including a parasol-mounted wing incorporating internal bracing to reduce the need for external struts, and retractable stabilizing floats that folded upward to become wingtips in flight.
+
+The overall effect was an aerodynamically clean aircraft far superior to previous flying boat designs. Powered by two Pratt & Whitney R-1830-58 engines of 825 horsepower each, the aircraft, with a crew of seven to ten, was armed with three 0.30-in. machine guns, and could carry 2,000 lb. of bombs. Designated the XP3Y-1, the aircraft made its first flight on 15 March 1935. Early trials proved quite successful and the Navy ordered 60 of the aircraft in June 1935. Because it could carry a substantial bomb load, the aircraft was redesignated a patrol bomber. Fitted with more powerful R-1830-64 engines and incorporating modifications to the fin and rudder, the XPBY-1 was delivered to Patrol Squadron (VP) 11F in October 1936.
+
+Improved PBY-2, PBY-3 and PBY-4 models appeared between 1936 and 1939, each incorporating updated R-1830 engines and other minor modifications. The PBY-5 was introduced in September 1940, just in time to take part in the Neutrality Patrol in the Western Atlantic. By the end of 1941, the Navy had 16 squadrons operating PBY-5s. At the same time, Consolidated introduced the amphibious PBY-5A. By then, the name Catalina, originated by the RAF, was adopted.
+
+Production of the aircraft took place in Buffalo, San Diego and New Orleans. Boeing of Canada built 362 PBYs, and Vickers of Canada produced another 240 Catalinas and similar Cansos, the latter destined for service with the RAF, RCAF, RAAF and RNZAF. The New Orleans factory, besides providing aircraft for the Navy, also provided 75 aircraft to the USAAF and 48 to Russia. Coast Guard service commenced in 1940.
+
+Later models equipped with radar and Magnetic Anomaly Detection (MAD) equipment operated throughout the Atlantic, Mediterranean and Pacific. Not only did the Catalina figure significantly in disrupting U-boat operations, it also proved ideal in long-range reconnaissance (PBYs located the Japanese fleet at Midway), night anti-shipping (Black Cats) and air-sea rescue (Dumbo). The venerable Catalina served in every theater of the war. In all, 3,276 PBYs were built.
+
+General characteristics
+Crew: 10 — pilot, co-pilot, bow turret gunner, flight engineer, radio operator, navigator, radar operator, two waist gunners, ventral gunner
+Length: 63 ft 10 7/16 in (19.46 m)
+Wingspan: 104 ft 0 in (31.70 m)
+Height: 21 ft 1 in (6.15 m)
+Wing area: 1,400 ft² (130 m²)
+Empty weight: 20,910 lb (9,485 kg)
+Max. takeoff weight: 35,420 lb (16,066 kg)
+Powerplant: 2 × Pratt & Whitney R-1830-92 Twin Wasp radial engines, 1,200 hp (895 kW each) each
+Zero-lift drag coefficient: 0.0309
+Drag area: 43.26 ft² (4.02 m²)
+Aspect ratio: 7.73
+
+Performance
+Maximum speed: 196 mph (314 km/h)
+Cruise speed: 125 mph (201 km/h)
+Range: 2,520 mi (4,030 km)
+Service ceiling: 15,800 ft (4,000 m)
+Rate of climb: 1,000 ft/min (5.1 m/s)
+Wing loading: 25.3 lb/ft² (123.6 kg/m²)
+Power/mass: 0.034 hp/lb (0.056 kW/kg)
+Lift-to-drag ratio: 11.9
+
+Armament
+3 .30 cal (7.62 mm) machine guns (two in nose turret, one in ventral hatch at tail)
+2 .50 cal (12.7 mm) machine guns (one in each waist blister)
+4,000 lb (1,814 kg) of bombs or depth charges; torpedo racks were also available
+
+http://www.navalaviationmuseum.org/attractions/aircraft-exhibits/item/?item=pby-5a_catalina

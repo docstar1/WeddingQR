@@ -1,0 +1,23 @@
+Even though the US Army Air Corps needed a new biplane trainer in the mid-1930’s, it moved slowly to acquire one because of the service-wide lack of funding for new airplane purchases. In 1936, following the Navy’s lead the previous year, the Army tentatively bought 26 airframes from Boeing (the Model 75), which the Army named the PT-13. With war on the horizon, this trickle of acquisition soon turned into a torrent; 3519 were delivered in 1940 alone.
+
+Built as a private venture by the Stearman Aircraft Company of Wichita (bought by Boeing in 1934), this two-seat biplane was of mixed construction. The wings were of wood with fabric covering while the fuselage had a tough, welded steel framework, also fabric covered. Either a Lycoming R-680 (PT-13) or Continental R-670 (PT-17) engine powered most models, at a top speed of 124 mph with a 505-mile range. An engine shortage in 1940-41 led to the installation of 225-hp Jacobs R-755 engines on some 150 airframes, and the new designation PT-18.
+
+The US Navy's early aircraft, designated NS-1, eventually evolved into the N2S series, and the Royal Canadian Air Force called their Lend-Lease aircraft PT-27s. (The Canadians were also responsible for the moniker "Kaydet," a name eventually adopted by air forces around the globe).
+
+The plane was easy to fly, and relatively forgiving of new pilots. It gained a reputation as a rugged airplane and a good teacher. Officially named the Boeing Model 75, the plane was (and still is) persistently known as the "Stearman" by many who flew them. It was called the "PT" by the Army, "N2S" by the Navy and "Kaydet" by Canadian forces. By whatever name, more than 10,000 were built by the end of 1945 and at least 1,000 are still flying today worldwide.
+
+General characteristics
+Crew: two, student and instructor
+Length: 24 ft 9 in (7.54 m)
+Wingspan: 32 ft 2 in (9.81 m)
+Height: 9 ft 8 in (3 m)
+Wing area: 298 sq ft (27.7 m²)
+Empty weight: 1,931 lb (878 kg)
+Max. takeoff weight: 2,635 lb (1,200 kg)
+Powerplant: 1 × Continental R-670-5 seven-cylinder air-cooled radial engine, 220 hp (164 kW)
+
+Performance
+Maximum speed: 135 mph (117 knots, 217 km/h)
+Cruise speed: 96 mph (83 knots, 155 km/h)
+Service ceiling: 13,200 ft (4,024 m)
+Climb to 10,000 ft (3,330 m): 17.3 min
