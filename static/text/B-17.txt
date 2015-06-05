@@ -1,0 +1,38 @@
+The Boeing B-17 is by far the most famous bomber of World War II. In 1934 the Boeing Aircraft Company of Seattle Washington began construction of a four engine heavy bomber. Known as the Model -299, first flight was achieved on July 28th 1935. As a result, the U.S. Government placed an order for production of 13 of these aircraft and began to take delivery of the 13 production aircraft between January 11th and August 4th 1937.
+
+The B-17, dubbed the "Flying Fortress" as a result of her amount of defensive firepower, underwent a number of improvements over its ten-year production run. B-17 Models ranged from the YB-17 to the B-17G model. Throughout the war the B-17 was refined and improved as the combat experience showed the Boeing designers where improvements could be made. The Final B-17 production model, the B-17G was produced in the largest quantities (8,680) than any other previous model and is considered the definitive "Flying Fortress". With its 13 .50-caliber machine guns, Chin, top, ball and tail turrets; waist and cheek guns the B-17 was indeed an airplane that earned the respect of its combatants. In addition, the flight crews loved the B-17 for her ability to take and withstand heavy combat damage and return safely home.
+
+During WWII, the B-17 saw service in every theater of operation, but was operated primarily by the 8th Air force in Europe and participated in countless missions from bases in England. A typical B-17 Mission often lasted for more than eight hours and struck targets deep within enemy territory. During the war, B-17's dropped 640,036 tons of bombs on European targets in daylight raids. This compares to the 452,508 tons dropped by the B-24 and 464,544 tons dropped by all other U.S. aircraft. The B-17 also downed 23 enemy aircraft per 1,000 raids as compared with 11 by B-24's and 11 by fighters and three by all U.S. medium and light bombers.
+
+There were a total of 12,732 B-17's that were produced between 1935 and May 1945. Of these 4,735 were lost in combat. Following WWII, the B-17 saw service in three more wars. B-17's were used in Korea, Israel used them in the war of 1948 and they were even used during Vietnam.
+
+Today, fewer than 100 B-17 airframes exist and fewer still are in airworthy condition. At one time, more than 1000 B-17's could be assembled for mass combat missions, now less than 15 of Boeings famous bombers can still take to the sky.
+
+General characteristics
+Crew: 10: Pilot, co-pilot, navigator, bombardier/nose gunner, flight engineer/top turret gunner, radio operator, waist gunners (2), ball turret gunner, tail gunner
+Length: 74 ft 4 in (22.66 m)
+Wingspan: 103 ft 9 in (31.62 m)
+Height: 19 ft 1 in (5.82 m)
+Wing area: 1,420 sq ft (131.92 m2)
+Airfoil: NACA 0018 / NACA 0010
+Aspect ratio: 7.57
+Empty weight: 36,135 lb (16,391 kg)
+Loaded weight: 54,000 lb (24,500 kg)
+Max. takeoff weight: 65,500 lb (29,700 kg)
+Powerplant: 4 × Wright R-1820-97 "Cyclone" turbosupercharged radial engines, 1,200 hp (895 kW) each
+
+Performance
+Maximum speed: 287 mph (249 kn, 462 km/h)
+Cruise speed: 182 mph (158 kn, 293 km/h)
+Range: 2,000 mi (1,738 nmi, 3,219 km) with 2,700 kg (6,000 lb) bombload
+Service ceiling: 35,600 ft (10,850 m)
+Rate of climb: 900 ft/min (4.6 m/s)
+Wing loading: 38.0 lb/sq ft (185.7 kg/m2)
+Power/mass: 0.089 hp/lb (150 W/kg)
+
+Armament
+Guns: 13 × .50 in (12.7 mm) M2 Browning machine guns in 8 positions (2 in the Bendix chin turret, 2 on nose cheeks, 2 staggered waist guns, 2 in upper Sperry turret, 2 in Sperry ball turret in belly, 2 in the tail and one firing upwards from radio compartment behind bomb bay)
+Bombs:
+Short range missions (<400 mi): 8,000 lb (3,600 kg)
+Long range missions (≈800 mi): 4,500 lb (2,000 kg)
+Overload: 17,600 lb (7,800 kg)
